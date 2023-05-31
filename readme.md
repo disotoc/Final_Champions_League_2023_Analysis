@@ -2,6 +2,8 @@
 
 El objetivo de este análisis es verificar las principales estadísticas de la final de la Champions League 2023
 
+Si solo necesitas código del análisis lo puedes encontrar [aquí](/analysis.ipynb)
+
 ## Análisis exploratorio
 
 Se partirá de una base con los partidos de Champions League desde el año 2003 hasta el 2022, el dataset principal se obtuvo desde [data.world](https://data.world/brocolidata/uefa-champions-league-matches-2004-2022) y luego de una limpieza de, se compone de lo siguiente:
